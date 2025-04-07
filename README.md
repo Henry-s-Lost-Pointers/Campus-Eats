@@ -7,7 +7,11 @@ Campus Eats is a smart meal-planning app that recommends on-campus restaurants b
 We designed Campus Eats with a user-first approach, ensuring it is simple and intuitive to use. The development stack includes:
 
 Frontend: React for a seamless and responsive user interface
+
 Backend: Flask to handle user data and restaurant recommendations
+
 Data Storage & Processing: Google Cloud Console using BigQuerry, Google Storage Bucket, where restaurant menus, user preferences, and nutritional data are stored as well as BigQuerry is used to make the custom database with all the restaurants available on UofA Campus including key metrics like protein, calories, carbs.
+
 Machine Learning: We trained a custom machine learning model (using unsupervised learning) on our custom dataset which is then used to predict all the meals that are similar to the user's preferences (based on macros in meals). We then deployed this unsupervised machine learning model on GCP BigQuerry which is then converted to a micro-service available using an API call.
+
 APIs: Used for fetching real-time menu updates and nutritional information along with the Google Maps API for path optimization. We built our own public accessible API for the machine learning model.
