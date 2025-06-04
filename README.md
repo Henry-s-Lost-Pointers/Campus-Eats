@@ -1,11 +1,11 @@
-##⬇️ Watch the video!
+## Watch the video!⬇️
 [![Watch the video](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png)](https://www.youtube.com/watch?v=VqelYIgPDbM&t=1s)
 
-##🚀 Project Description
+## Project Description🚀
 
 Campus Eats is a smart meal-planning app that recommends on-campus restaurants based on a student’s schedule, dietary preferences, and nutritional goals. By analyzing factors like calorie intake, carbs, protein, and cuisine preferences, the app helps students find meals that align with their lifestyle and fit into their schedule. Students can upload their class schedules and get meal options throughout the day in their free time slots.
 
-##🖥️ How we built it
+## How we built it🖥️
 
 We designed Campus Eats with a user-first approach, ensuring it is simple and intuitive to use. The development stack includes:
 
@@ -15,9 +15,9 @@ Data Storage & Processing: Google Cloud Console using BigQuerry, Google Storage 
 Machine Learning: We trained a custom machine learning model (using unsupervised learning) on our custom dataset which is then used to predict all the meals that are similar to the user's preferences (based on macros in meals). We then deployed this unsupervised machine learning model on GCP BigQuerry which is then converted to a micro-service available using an API call.
 APIs: Used for fetching real-time menu updates and nutritional information along with the Google Maps API for path optimization. We built our own public accessible API for the machine learning model.
 
-##💡 Features in Action
+## Features in Action💡
 
-<img src="[https://your-image-url.com/image.gif](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png)" alt="Demo" width="600"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png" alt="Demo"/>
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/906/datas/original.png" alt="Demo" width="600"/>
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/909/datas/original.png" alt="Demo" width="600"/>
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/914/datas/original.png" alt="Demo" width="600"/>
