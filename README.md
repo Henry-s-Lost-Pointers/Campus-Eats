@@ -1,4 +1,4 @@
-## Watch the video!
+## Watch the video!⬇️
 [![Watch the video](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png)](https://www.youtube.com/watch?v=VqelYIgPDbM&t=1s)
 
 ## Project Description
@@ -6,6 +6,15 @@
 Campus Eats is a smart meal-planning app that recommends on-campus restaurants based on a student’s schedule, dietary preferences, and nutritional goals. By analyzing factors like calorie intake, carbs, protein, and cuisine preferences, the app helps students find meals that align with their lifestyle and fit into their schedule. Students can upload their class schedules and get meal options throughout the day in their free time slots.
 
 ## How we built it
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 We designed Campus Eats with a user-first approach, ensuring it is simple and intuitive to use. The development stack includes:
 
