@@ -18,9 +18,28 @@ APIs: Used for fetching real-time menu updates and nutritional information along
 ## Features in Action💡
 
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png" alt="Demo"/>
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/906/datas/original.png" alt="Demo" width="600"/>
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/909/datas/original.png" alt="Demo" width="600"/>
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/914/datas/original.png" alt="Demo" width="600"/>
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/921/datas/original.png" alt="Demo" width="600"/>
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/918/datas/original.png" alt="Demo" width="600"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/906/datas/original.png" alt="Demo"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/909/datas/original.png" alt="Demo"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/914/datas/original.png" alt="Demo"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/921/datas/original.png" alt="Demo"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/918/datas/original.png" alt="Demo"/>
+<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/926/datas/original.png" alt="Demo"/>
+
+## Challengers We Ran Into🧗‍♀️
+
+Our biggest challenge was collecting the dataset and cleaning it for use. Building an ML-driven recommendation system on Google Cloud while ensuring real-time processing was a challenge. Integrating multiple APIs for dynamic menu updates and nutritional data required careful optimization. Additionally, making sure the UI remained user-friendly while handling complex data analysis was an important focus. Another significant challenge we faced was the CORS error that occurred when we tried connecting the React app with the Google Cloud Run function.
+
+## What We Learned📚
+
+Through this project, we gained experience in Google Cloud ML deployment, backend development with Flask, and real-time data processing. We also learned how to balance AI-driven recommendations with usability, ensuring an intuitive and smooth experience for students.
+
+## What's Next?🔮
+We plan to expand Campus Eats by:
+
+Adding real-time meal availability from restaurants
+Including budget-friendly meal options
+Implementing a community feature where students can share their favorite meals and dining experiences
+Importing the class schedule in different file formats like png, jpeg, pdf, etc.
+Exporting our final schedule with the meal plans.
+Campus Eats aims to make student life easier by taking the guesswork out of meal planning. With further improvements, we hope to make it an essential tool for every student on campus!
 
