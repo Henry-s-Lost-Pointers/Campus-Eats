@@ -1,3 +1,5 @@
+[![Watch the video](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/696/datas/original.png)](https://www.youtube.com/watch?v=VqelYIgPDbM&t=1s)
+
 ## Project Description
 
 Campus Eats is a smart meal-planning app that recommends on-campus restaurants based on a student’s schedule, dietary preferences, and nutritional goals. By analyzing factors like calorie intake, carbs, protein, and cuisine preferences, the app helps students find meals that align with their lifestyle and fit into their schedule. Students can upload their class schedules and get meal options throughout the day in their free time slots.
