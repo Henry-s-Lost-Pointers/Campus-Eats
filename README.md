@@ -29,7 +29,7 @@ APIs: Used for fetching real-time menu updates and nutritional information along
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/918/datas/original.png" alt="Demo"/>
 <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/276/926/datas/original.png" alt="Demo"/>
 
-## Challengers We Ran Into🧗‍♀️
+## Challenges We Ran Into🧗‍♀️
 
 Our biggest challenge was collecting the dataset and cleaning it for use. Building an ML-driven recommendation system on Google Cloud while ensuring real-time processing was a challenge. Integrating multiple APIs for dynamic menu updates and nutritional data required careful optimization. Additionally, making sure the UI remained user-friendly while handling complex data analysis was an important focus. Another significant challenge we faced was the CORS error that occurred when we tried connecting the React app with the Google Cloud Run function.
 
